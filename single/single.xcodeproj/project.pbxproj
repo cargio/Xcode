@@ -21,6 +21,7 @@
 		C308FA401833672A00802C65 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C308FA221833672A00802C65 /* UIKit.framework */; };
 		C308FA481833672A00802C65 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C308FA461833672A00802C65 /* InfoPlist.strings */; };
 		C308FA4A1833672A00802C65 /* singleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C308FA491833672A00802C65 /* singleTests.m */; };
+		C308FADC1833AA9900802C65 /* View2.xib in Resources */ = {isa = PBXBuildFile; fileRef = C308FADB1833AA9900802C65 /* View2.xib */; };
 		D917F9951833A88000344F14 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = D917F9941833A88000344F14 /* View.xib */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +55,7 @@
 		C308FA451833672A00802C65 /* singleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "singleTests-Info.plist"; sourceTree = "<group>"; };
 		C308FA471833672A00802C65 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C308FA491833672A00802C65 /* singleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = singleTests.m; sourceTree = "<group>"; };
+		C308FADB1833AA9900802C65 /* View2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View2.xib; sourceTree = "<group>"; };
 		D917F9941833A88000344F14 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -122,6 +124,7 @@
 				C308FA361833672A00802C65 /* Images.xcassets */,
 				C308FA251833672A00802C65 /* Supporting Files */,
 				D917F9941833A88000344F14 /* View.xib */,
+				C308FADB1833AA9900802C65 /* View2.xib */,
 			);
 			path = single;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				D917F9951833A88000344F14 /* View.xib in Resources */,
 				C308FA371833672A00802C65 /* Images.xcassets in Resources */,
 				C308FA291833672A00802C65 /* InfoPlist.strings in Resources */,
+				C308FADC1833AA9900802C65 /* View2.xib in Resources */,
 				C308FA321833672A00802C65 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
