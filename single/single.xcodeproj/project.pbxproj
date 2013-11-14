@@ -21,6 +21,7 @@
 		C308FA401833672A00802C65 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C308FA221833672A00802C65 /* UIKit.framework */; };
 		C308FA481833672A00802C65 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C308FA461833672A00802C65 /* InfoPlist.strings */; };
 		C308FA4A1833672A00802C65 /* singleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C308FA491833672A00802C65 /* singleTests.m */; };
+		D995DB9218352105009D50EC /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = D995DB9118352105009D50EC /* View.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C308FA451833672A00802C65 /* singleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "singleTests-Info.plist"; sourceTree = "<group>"; };
 		C308FA471833672A00802C65 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C308FA491833672A00802C65 /* singleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = singleTests.m; sourceTree = "<group>"; };
+		D995DB9118352105009D50EC /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				C308FA341833672A00802C65 /* ViewController.m */,
 				C308FA361833672A00802C65 /* Images.xcassets */,
 				C308FA251833672A00802C65 /* Supporting Files */,
+				D995DB9118352105009D50EC /* View.xib */,
 			);
 			path = single;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D995DB9218352105009D50EC /* View.xib in Resources */,
 				C308FA371833672A00802C65 /* Images.xcassets in Resources */,
 				C308FA291833672A00802C65 /* InfoPlist.strings in Resources */,
 				C308FA321833672A00802C65 /* Main.storyboard in Resources */,
