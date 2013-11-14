@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     // test
     // 테스트입니다.
+    //test2
 }
 
 - (void)didReceiveMemoryWarning
